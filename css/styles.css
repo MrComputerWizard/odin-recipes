@@ -3,6 +3,10 @@ body {
     background-color:khaki
 }
 
+a {
+    font-size: 35px;
+}
+
 .selection {
     list-style-type: none;
     text-align: center;
