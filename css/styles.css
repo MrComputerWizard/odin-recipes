@@ -1,3 +1,23 @@
 body {
     font-family: Verdana, sans-serif;
+    background-color:khaki
+}
+
+.selection {
+    list-style-type: none;
+    text-align: center;
+    font-size: 35px;
+}
+
+.rice-picture{
+    width: 50%;
+}
+
+.hibachi-picture{
+    width: 300px;
+}
+
+h1{
+    font-size: 48px;
+    text-align: center;
 }
